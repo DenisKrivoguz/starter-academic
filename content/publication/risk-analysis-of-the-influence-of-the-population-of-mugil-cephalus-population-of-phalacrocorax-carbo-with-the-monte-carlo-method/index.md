@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Mishurova Uliana
-  - Krivoguz Denis
+  - author
 publication: "*International journal of professional science, 4*"
 abstract: "This research is devoted to the study of the impact of anthropogenic
   activity on the stability of the population and its properties. Since factors,
