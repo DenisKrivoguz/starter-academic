@@ -33,7 +33,7 @@ abstract: Landslides are one of the most important problems on Kerch Peninsula.
   steepness from 20 to 40 degrees, the anthropogenic impact, excessive salinity
   of the soil cover and the lithological composition of the terrain.
 draft: false
-featured: false
+featured: true
 tags:
   - Landslides, Landslide Susceptibility, GIS, Spatial Analysis, Landslide Zoning
 image:
