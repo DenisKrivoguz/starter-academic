@@ -4,7 +4,7 @@ title: Spatial analysis of salinity distribution patterns in upper layers of the
 publication_types:
   - "1"
 authors:
-  - **Denis Krivoguz**
+  - Denis Krivoguz
   - Sergei Mal'ko
   - Anna Semenova
 doi: http://dx.doi.org/10.1051/e3sconf/202020303010
