@@ -40,6 +40,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+url_pdf: http://elpub.wdcb.ru/journals/rjes/v20/2020ES000682/2020ES000682.pdf
 date: 2020-02-01T17:57:00.000Z
 ---
-url_pdf: http://elpub.wdcb.ru/journals/rjes/v20/2020ES000682/2020ES000682.pdf
