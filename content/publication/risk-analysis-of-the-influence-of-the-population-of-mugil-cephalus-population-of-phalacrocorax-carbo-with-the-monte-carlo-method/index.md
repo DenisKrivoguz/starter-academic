@@ -42,5 +42,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+url_pdf: http://scipro.ru/wp-content/uploads/2016/02/PS_04_2017.pdf#page=44
 date: 2017-09-01T17:43:00.000Z
 ---
