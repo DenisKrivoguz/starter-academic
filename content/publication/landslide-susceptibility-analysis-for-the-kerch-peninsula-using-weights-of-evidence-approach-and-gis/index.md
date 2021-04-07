@@ -7,7 +7,7 @@ authors:
   - Denis Krivoguz
   - Liudmila Bespalova
 doi: 10.2205/2020ES000682
-publication: "*Russian Journal of Earth Sciences*, 20, ES1003"
+publication: "*Russian Journal of Earth Sciences*, 1(20)"
 publication_short: "*Russ. J. Earth Sci.*, 20, ES1003"
 abstract: Landslides are one of the most important problems on Kerch Peninsula.
   Rapidly increasing anthropogenic pressure, which has been particularly could
