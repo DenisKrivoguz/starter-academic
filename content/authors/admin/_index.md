@@ -25,7 +25,7 @@ organizations:
 education:
   courses:
     - course: PhD in Geography
-      institution: Stanford University
+      institution: Southern Federal University
       year: 2019
     - course: MSc in Ecology and environmental protection
       institution: Kerch State Maritime Technological University
