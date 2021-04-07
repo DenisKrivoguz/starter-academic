@@ -8,7 +8,7 @@ authors:
   - Sergei Mal'ko
   - Anna Semenova
 doi: http://dx.doi.org/10.1051/e3sconf/202020303010
-publication: *E3S Web of Conferences*, 203
+publication: E3S Web of Conferences, 203
 publication_short: ""
 abstract: Salinity is one of the most important factors that primarily
   determines the level of seawater's density and, consequently, the movement of
