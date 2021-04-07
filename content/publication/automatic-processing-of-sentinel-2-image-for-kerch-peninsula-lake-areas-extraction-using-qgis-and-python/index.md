@@ -30,5 +30,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+url_pdf: https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/63/e3sconf_ebwff2020_03011.pdf
 date: 2020-11-01T19:45:00.000Z
 ---
