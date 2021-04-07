@@ -2,7 +2,6 @@
 title: "Methodology of physiography zoning using machine learning: A case study
   of the Black Sea"
 publication_types:
-  - "0"
   - "2"
 authors:
   - Denis Krivoguz
