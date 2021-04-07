@@ -4,7 +4,7 @@ title: Risk analysis of the influence of the population of Mugil Cephalus
 publication_types:
   - "2"
 authors:
-  - Mishurova Uliana
+  - Uliana Mishurova 
   - author
 publication: "*International journal of professional science, 4*"
 abstract: "This research is devoted to the study of the impact of anthropogenic
