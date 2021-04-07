@@ -3,7 +3,7 @@ title: Methodological aspects of natural territories zoning using machine learni
 publication_types:
   - "2"
 authors:
-  - author
+  - Denis Krivoguz
   - Raisa Borovskaya
 doi: 10.33075/2220-5861-2020-1-14-20
 publication: "*Monitoring systems of environment*, 1"
