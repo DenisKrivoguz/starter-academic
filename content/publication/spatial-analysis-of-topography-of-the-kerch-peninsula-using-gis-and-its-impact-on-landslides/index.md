@@ -30,5 +30,5 @@ image:
   focal_point: Smart
   preview_only: false
 url_pdf: http://scipro.ru/wp-content/uploads/2016/02/PS_05_2017.pdf#page=18
-date: 2021-04-07T14:39:57.512Z
+date: 2017-11-01T14:39:57.512Z
 ---
