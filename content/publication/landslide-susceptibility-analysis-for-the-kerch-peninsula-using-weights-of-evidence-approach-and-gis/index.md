@@ -35,7 +35,7 @@ abstract: Landslides are one of the most important problems on Kerch Peninsula.
 draft: false
 featured: false
 tags:
-  - Landslides; Landslide Susceptibility; GIS; Spatial Analysis; Landslide Zoning
+  - Landslides, Landslide Susceptibility, GIS, Spatial Analysis, Landslide Zoning
 image:
   filename: ""
   focal_point: Smart
