@@ -41,5 +41,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+url_pdf: https://msoe.ru/wp-content/uploads/2020/04/39-02.pdf
 date: 2020-03-01T18:17:00.000Z
 ---
