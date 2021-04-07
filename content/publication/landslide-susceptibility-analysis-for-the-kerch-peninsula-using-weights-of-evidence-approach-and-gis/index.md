@@ -4,7 +4,7 @@ title: Landslide susceptibility analysis for the Kerch Peninsula using weights
 publication_types:
   - "0"
 authors:
-  - Denis Krivoguz
+  - author
   - Liudmila Bespalova
 doi: 10.2205/2020ES000682
 publication: "*Russian Journal of Earth Sciences*, 20, ES1003"
